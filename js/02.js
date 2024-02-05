@@ -3,7 +3,7 @@ const cliente = "wind"
 const precioDescuento = 220
 
 //no se pueden reasignar valores
-//cliente = 20
+cliente = 20
 
 //no pueden iniciar sin un valor
 //const precio
